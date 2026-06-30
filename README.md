@@ -179,9 +179,9 @@ This repository has been created for educational purposes to demonstrate the pra
 
 ## 👨‍💻 Author
 
-**Name:** *Prajapati daksh and Prajapati dax*
-**Course:** Bachelor of Engineering / B.Tech
-**Subject:** Software Engineering
+**Name:** *Prajapati daksh and Prajapati dax* <br>
+**Course:** Bachelor of Engineering / B.Tech <br>
+**Subject:** Software Engineering <br>
 **Project:** Cloud Console – Cloud Gaming Platform
 
 ---
